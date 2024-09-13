@@ -1,11 +1,12 @@
-👋 Hi, I’m Mikołaj Szokaluk, a 19-year-old aspiring developer from Poland studying programming at a technical school. My education focuses on a wide range of programming topics, but I've taken a particular interest in frontend development and have been learning it. 
+👋 Hi, I’m Mikołaj Szokaluk, a 19-year-old aspiring developer and a computer science student from Poland. While my studies cover a wide range of programming topics I’ve developed a real interest in front-end development. Lately, I’ve been diving into Flutter, and I'm really enjoying it.
+
 
 🚀 About Me
-- I'm currently a student at Zespół Szkół Technicznych im. gen. Zygmunta Bohusza-Szyszko w Chełmie.
+- I'm currently a student at Politechnika Lubelska, studying computer science.
 - I'm passionate about learning and exploring new technologies, especially in frontend development.
 
 🌱 What I'm Currently Learning
-- Exploring JavaScript and learning React, Next.js.
+- Exploring Flutter and building mobile applications.
 - Diving deeper into design principles.
 
 📫 Get in Touch
