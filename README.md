@@ -1,4 +1,4 @@
-👋 Hi, I’m Mikołaj Szokaluk, a 19-year-old aspiring developer and a computer science student from Poland. While my studies cover a wide range of programming topics I’ve developed a real interest in front-end development. Lately, I’ve been diving into Flutter, and I'm really enjoying it.
+👋 Hi, I’m Mikołaj Szokaluk, a 20-year-old aspiring developer and a computer science student from Poland. While my studies cover a wide range of programming topics I’ve developed a real interest in front-end development. Lately, I’ve been diving into Flutter, and I'm really enjoying it.
 
 
 🚀 About Me
