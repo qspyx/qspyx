@@ -1,13 +1,13 @@
-👋 Hi, I’m Mikołaj Szokaluk, a 20-year-old aspiring developer and a computer science student from Poland. While my studies cover a wide range of programming topics I’ve developed a real interest in front-end development. Lately, I’ve been diving into Flutter, and I'm really enjoying it.
+👋 Hi, I’m Mikołaj Szokaluk, a 20-year-old developer from Poland. I mainly work with Next.js, but I also love working with Flutter, where I've been building mobile apps for over a year.
 
 
 🚀 About Me
-- I'm currently a student at Politechnika Lubelska, studying computer science.
-- I'm passionate about learning and exploring new technologies, especially in frontend development.
+- I work as a fullstack developer, mainly focusing on frontend development.
+- I'm passionate about building intuitive and user-friendly interfaces, while also handling backend tasks when needed.
 
-🌱 What I'm Currently Learning
-- Exploring Flutter and building mobile applications.
-- Diving deeper into design principles.
+🌱 What I'm Currently Working On
+- Developing a mobile application in Flutter.
+- Improving design and user experience in my projects.
 
 📫 Get in Touch
 - Email: mikolajszokaluk@gmail.com
