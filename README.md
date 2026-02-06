@@ -1,4 +1,4 @@
-👋 Hi, I’m Mikołaj Szokaluk, a 20-year-old developer from Poland. I mainly work with Next.js, but I also love working with Flutter, where I've been building mobile apps for over a year.
+👋 Hi, I’m Mikołaj Szokaluk, a 21-year-old developer from Poland. I mainly work with Next.js, but I also love working with Flutter, where I've been building mobile apps for over a year.
 
 
 🚀 About Me
